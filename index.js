@@ -1,7 +1,7 @@
 
 
 function ligar() {
-  
+
     const lampada = document.querySelector("#lampada")
 
     lampada.src = "img/lampada-ligada.jpeg"
